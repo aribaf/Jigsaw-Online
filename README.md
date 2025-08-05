@@ -52,24 +52,22 @@ project-root/
 
 ## Screenshots
 
-Include key screenshots for each stage of the user/admin experience:
+### Landing Page  
+![Landing Page](images/landingpage.png)  
+![Footer](images/footer3.png)  
+![About Page](images/aboutpage.png)
 
-- Landing Page  
-  `![Landing Page](./images/landingpage.png)`
-    `![Landing Page](./images/footer3.png)`
-    `![Landing Page](./images/aboutpage.png)`
+### Product Listing  
+![Product Page](images/productpage.png)
 
-- Product Listing  
-  `![Product Page](./images/productpage.png)`
+### Add to Cart  
+![Add to Cart](images/addtocart.png)
 
-- Add to Cart  
-  `![Add to Cart](./images/addtocart.png)`
+### Dropdown Menu  
+![Dropdown Menu](images/dropdown-menu.png)
 
-- dropdown Menu  
-  `![Checkout](./images/dropdown-menu.png)`
+### Admin - Edit Product  
+![Edit Product](images/editorders.png)
 
-- Admin - Edit Product  
-  `![Edit Product](./images/editorders.png)`
-
-- Admin - Orders View  
-  `![Orders](./images/myorders.png)`
+### Admin - Orders View  
+![Orders](images/myorders.png)
